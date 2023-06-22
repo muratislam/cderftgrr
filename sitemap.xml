@@ -9,7 +9,183 @@
 
 <url>
   <loc>https://mysql.rackspace.com/</loc>
-  <lastmod>2023-06-21T05:51:44+00:00</lastmod>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/contact/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/privacy-policy/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/psg/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/usa/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/terence-samuel/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/npr/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/govt/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/new-zealand/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/international/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/translation/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/asia/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/mccarthy/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/maga-movement/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/donald-trump/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/barcelona/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/messi/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/india/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/southeast-asia-has-not-seen-such-a-temperature-in-200-years/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/jacinda-ardern-got-the-title-of-dame/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/nprs-terence-samuel-is-named-top-editor-of-usa-today/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/debt-ceiling-deal-reveals-the-impotence-of-donald-trumps-maga-movement/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/saudi-arabia-is-reducing-oil-production-there-is-a-fear-of-price-increase/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/record-of-foreigners-taking-citizenship-in-germany/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/austin-rajnath-discussed-military-alliance/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/the-president-of-barca-took-away-the-journalists-phone-for-questioning-messis-return/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/2023/06/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/category/news/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/author/meramob/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/temperature/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/saudi-arabia/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/the-market/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/the-oil/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/germany/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/tag/defense/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mysql.rackspace.com/2023/</loc>
+  <lastmod>2023-06-22T17:56:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
